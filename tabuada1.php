@@ -11,6 +11,6 @@ function tabuada ($numeroDaTabuada,$numero = 1){
 		tabuada($numeroDaTabuada,$numero);
 	}
 }
-tabuada(11);
+tabuada(1);
 
 ?>
